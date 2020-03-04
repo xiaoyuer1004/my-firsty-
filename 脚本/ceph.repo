@@ -1,0 +1,13 @@
+[mon]
+name=mon
+baseurl=file:///media/MON
+gpgcheck=0
+[osd]
+name=osd
+baseurl=file:///media/OSD
+gpgcheck=0
+[tools]
+name=tools
+baseurl=file:///media/Tools
+gpgcheck=0
+
